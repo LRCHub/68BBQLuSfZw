@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ハイウェイ",
+  "base_artist": "35.7",
+  "createdAt": "2025-12-17T13:22:13.707403Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハイウェイ・トゥ・オブリヴィオン",
+      "artist": "DragonForce",
+      "has_synced": true,
+      "path": "select/01_ハイウェイ・トゥ・オブリヴィオン_DragonForce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サンタモニカ・ハイウェイ",
+      "artist": "Mariya Takeuchi",
+      "has_synced": false,
+      "path": "select/02_サンタモニカ・ハイウェイ_Mariya_Takeuchi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サンタモニカ・ハイウェイ",
+      "artist": "竹内まりや",
+      "has_synced": false,
+      "path": "select/03_サンタモニカ・ハイウェイ_竹内まりや.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ハイウェイ",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/04_ハイウェイ_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ファラウェイ・ハイウェイ",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/05_ファラウェイ・ハイウェイ_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ハイウェイ <Alternative>",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/06_ハイウェイ__Alternative_くるり.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ハイウェイ <Alternative>",
+      "artist": "Quruli",
+      "has_synced": true,
+      "path": "select/07_ハイウェイ__Alternative_Quruli.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ギリギリ・ハイウェイ",
+      "artist": "人間椅子",
+      "has_synced": false,
+      "path": "select/08_ギリギリ・ハイウェイ_人間椅子.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "メリー・ゴー・ラウンド・ハイウェイ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/09_メリー・ゴー・ラウンド・ハイウェイ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ファラウェイ・ハイウェイ",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/10_ファラウェイ・ハイウェイ_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ハイウェイ",
+      "artist": "くるり",
+      "has_synced": false,
+      "path": "select/11_ハイウェイ_くるり.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハイウェイ（LA mix）",
+      "artist": "くるり",
+      "has_synced": true,
+      "path": "select/12_ハイウェイ(LA_mix)_くるり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ハイウェイ",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/13_ハイウェイ_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ハイウェイ",
+      "artist": "PEARL CENTER X AAAMYYY",
+      "has_synced": true,
+      "path": "select/14_ハイウェイ_PEARL_CENTER_X_AAAMYYY.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ハイウェイ・ユニコーン (ロード・トゥ・ラヴ)",
+      "artist": "Lady Gaga",
+      "has_synced": true,
+      "path": "select/15_ハイウェイ・ユニコーン_(ロード・トゥ・ラヴ)_Lady_Gaga.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハイウェイ",
+      "artist": "35.7",
+      "has_synced": false,
+      "path": "select/pl_01_ハイウェイ_35.7.txt"
+    }
+  ]
+}
